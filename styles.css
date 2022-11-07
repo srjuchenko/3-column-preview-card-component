@@ -104,9 +104,8 @@ body {
 /* MEDIA QUERY */
 @media screen and (max-width: 600px) {
   body {
-    display: flex;
-    height: 120vh;
-    align-items: center;
+    padding: 20px;
+    height: 100%;
   }
 
   .cards-container {
